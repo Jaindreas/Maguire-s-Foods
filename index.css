@@ -1,3 +1,18 @@
+body {
+  background-color: rgb(255, 255, 255)
+}
+
+img {
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 200px;
+   margin-top: -350px; 
+   margin-left: -255px; 
+   border-radius: 8px;
+}
+
 h1 {
     color:rgb(230, 135, 11);
     font-family: Georgia;
